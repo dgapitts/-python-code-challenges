@@ -9,3 +9,4 @@ This repo contains notes and my personal solutions to the course
 ### Solutions
 
 * [Prime Factors - First Draft Solution - brutal, inelegant but works](docs/prime-factors-test.md)
+* [is_palidrome - base functionality](docs/is_palidrome-base-functionality.md)
