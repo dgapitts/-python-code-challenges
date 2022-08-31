@@ -11,3 +11,4 @@ This repo contains notes and my personal solutions to the course
 * [Prime Factors - First Draft Solution - brutal, inelegant but works](docs/prime-factors-test.md)
 * [is_palidrome - base functionality](docs/is_palidrome-base-functionality.md)
 * [sorting array input - sort case-insensitive but preserve-case in final output](docs/sort-case-insensitive-preserve-case.md)
+* [is_palidrome - v2 "with slice" - signficantly more efficient](docs/is_palidrome_v2_with_slice.md)
